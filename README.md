@@ -26,9 +26,6 @@ It is configured via webpack and package. json using node modules.
 We limited the number of external libraries and frameworks as much as possible.
 Due to time constraints some parts are just static mocks, while others are fully dynamic.
 
-to see it live
-[link](www.wherewhenever we deploy. com)
-
 ---
 
 To run it locally:
