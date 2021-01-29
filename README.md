@@ -21,8 +21,8 @@ https://www.youtube.com/watch?v=kjp33e7CMuE&feature=youtu.be
 
 ---
 
-We did not use create-react-app from command line, but we did use react to conjure up our HTML, CSS, and JavaScript.
-It is configured via webpack and package. json using node modules.
+We did not use create-react-app from command line, but we did use React to conjure up our HTML, CSS, and JavaScript.
+It is configured via webpack and package. JSON using Node modules.
 We limited the number of external libraries and frameworks as much as possible.
 Due to time constraints some parts are just static mocks, while others are fully dynamic.
 
