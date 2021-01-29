@@ -28,18 +28,16 @@ Due to time constraints some parts are just static mocks, while others are fully
 
 ---
 
-To run it locally:
-1- clone down the repo
-2- run 'npm install' in the command line to get all the node modules locally
-
-If you are unfamiliar with npm visit https://www.npmjs.com/get-npm
+To run it locally: 
+1. clone down the repo 
+2. run 'npm install' in the command line to get all the node modules locally
+  - If you are unfamiliar with npm visit https://www.npmjs.com/get-npm
 
 once that is done run
 
-3- run 'npm start' to boot up a localhost version in your default web browser via command line
+3. run 'npm start' to boot up a localhost version in your default web browser via command line
 
-
-4- it should open to localhost:3000/
+4. it should open to localhost:3000/
 
 you can click on any of the products squares to jump to that page
 
@@ -47,7 +45,7 @@ hit the back button to return to our main page
 
 or just add /singleItem/1 to the end of the url to see our first item
 
-5- to see all pages simply change the number at the end to any between 1 & 20
+5. to see all pages simply change the number at the end to any between 1 & 20
 
 e.g. localhost:3000/singleItem/5 or localhost:3000/singleItem/17
 
